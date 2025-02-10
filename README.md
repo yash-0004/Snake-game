@@ -1,10 +1,13 @@
 # Group members
-  Yash Chikhliya - 202401038 , Github link - https://github.com/yash-0004/Snake-game
+  Yash Chikhliya(G1) - 202401038                                                                                                                                   
+  Darshil Kanani(G2) - 202401080                                                                                                                                   
+  Tushar Parmar(G2) - 202401140                                                                                                                                    
+  Purva Kaneriya(G3) - 202401171                                                                                                                                   
 
 # 🐍 Snake Game (C++)
 
 A simple and fun Snake Game built using C++! 🖥 Control the snake, eat food 🍏 to grow longer, and avoid hitting the walls or your own body. This game is played on a 20x20 grid, and each time you eat food, you earn points and grow longer. Can you reach the highest score? 🏆
-
+                                                                                                                                       
 # 🚀 Features:
 
 🎮 Controls:                                                                                                                                                       
