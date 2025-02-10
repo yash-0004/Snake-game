@@ -1,5 +1,5 @@
 # Group members
-  Yash Chikhliya - 202401038 , Github link - 
+  Yash Chikhliya - 202401038 , Github link - https://github.com/yash-0004/Snake-game
 
 # 🐍 Snake Game (C++)
 
