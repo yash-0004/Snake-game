@@ -33,7 +33,7 @@ A simple and fun Snake Game built using C++! 🖥 Control the snake, eat food �
 # 🛠 How to Run
 
 Clone the Repository : 
-git clone https://github.com/yash-0004/snake-game-cpp.git
+git clone (https://github.com/yash-0004/Snake-game/blob/main/snake.cpp)
 
 Compile the Code: Navigate to the project directory and compile the code with : 
 g++ -o snake_game snake_game.cpp
