@@ -2,7 +2,8 @@
   Yash Chikhliya(G1) - 202401038                                                                                                                                   
   Darshil Kanani(G2) - 202401080                                                                                                                                   
   Tushar Parmar(G2) - 202401140                                                                                                                                    
-  Purva Kaneriya(G3) - 202401171                                                                                                                                   
+  Purva Kaneriya(G3) - 202401171                                                                                                                                                                                                                                                                              
+### This game is only for Windows OS.
 
 # 🐍 Snake Game (C++)
 
