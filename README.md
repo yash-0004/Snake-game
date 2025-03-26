@@ -1,57 +1,49 @@
 # Group members
-  Yash Chikhliya(G1) - 202401038                                                                                                                                   
-  Darshil Kanani(G2) - 202401080                                                                                                                                   
-  Tushar Parmar(G2) - 202401140                                                                                                                                    
-  Purva Kaneriya(G3) - 202401171                                                                                                                                                                                                                                                                              
+  Yash Chikhliya (G1) - 202401038                                                                                                                                   
+  Darshil Kanani (G2) - 202401080                                                                                                                                   
+  Tushar Parmar (G2) - 202401140                                                                                                                                    
+  Purva Kaneriya (G3) - 202401171                                                                                                                                                                                                                                                                              
 ### This game is only for Windows OS.
 
-# 🐍 Snake Game (C++)
+# 🧱 Tetris Game (C++)
 
-A simple and fun Snake Game built using C++! 🖥 Control the snake, eat food 🍏 to grow longer, and avoid hitting the walls or your own body. This game is played on a 20x20 grid, and each time you eat food, you earn points and grow longer. Can you reach the highest score? 🏆
-                                                                                                                                       
+A simple and addictive **Tetris Game** built using C++! 🎮  
+Control the falling blocks (Tetrominoes), clear lines, and score points. The more lines you clear, the faster the game gets. Can you beat your high score? 🏆
+
 # 🚀 Features:
 
-🎮 Controls:                                                                                                                                                       
-  W = Move Up ⬆                                                                                                                                                   
-  A = Move Left ⬅                                                                                                                                                 
-  S = Move Down ⬇                                                                                                                                                 
-  D = Move Right ➡                                                                                                                                                
-  Q = Quit the game 🚪                                                                                                                                             
-  R = Restart after Game Over 🔄
-    
-🧱 Game Over: The game ends when the snake hits the wall or collides with itself.                                                                                  
-💯 Score: The more food you eat, the higher your score! The snake grows longer with each food item consumed.                                                       
-🌍 Cross-Platform: Works on both Windows and Linux/macOS systems.                                                                                                  
+🎮 **Controls:**  
+⬅ **Left Arrow** - Move Left  
+➡ **Right Arrow** - Move Right  
+⬇ **Down Arrow** - Move Down Faster  
+⬆ **Up Arrow** - Rotate the Piece 🔄  
+**Spacebar** - Hard Drop (Instant Fall)  
+**P** - Pause / Resume the Game ⏸  
+**Esc** - Quit the Game 🚪  
+
+🧱 **Game Over:** The game ends when the stack of blocks reaches the top.  
+💯 **Scoring:** Clear lines to earn points. Bonus for clearing multiple lines at once!  
+⚡ **Level Up:** Game speed increases every 5 lines cleared.
 
 # 🎮 How to Play
 
-  Start: Press Enter to begin the game.                                                                                                                             
-  Control: Use W, A, S, or D to control the snake's movement.                                                                                                       
-  Eat the Food: Catch the food (F) to grow the snake and increase your score.                                                                                       
-  Game Over: If the snake hits the wall or its own tail, the game ends. Press R to restart or Q to quit.                                                            
-  
-# 🛠 How to Run
+▶ **Start:** Run the executable to start the game.  
+🧠 **Objective:** Arrange falling Tetrominoes to form complete horizontal lines.  
+✅ **Clear Lines:** Completing a line clears it and earns points.  
+💀 **Game Over:** If blocks stack up to the top, the game ends.
 
-Clone the Repository : 
-git clone (https://github.com/yash-0004/Snake-game/blob/main/snake.cpp)
+# ⚙️ Platform Compatibility 
+✅ **Windows Only:**
+Uses conio.h and windows.h for non-blocking input, screen clearing, and sleep functionality.
+❌ Not compatible with Linux or macOS due to system-specific libraries.
 
-Compile the Code: Navigate to the project directory and compile the code with : 
-g++ -o snake_game snake_game.cpp
-
-Run the Game: After compilation, start the game with : 
-./snake_game
-
-# ⚙ Platform Compatibility
-
-  Windows: Uses conio.h and windows.h for non-blocking input and sleep functions.                                                                                   
-  Linux/macOS: Uses unistd.h and termios.h for input handling and microsecond delay.
-  
 # 💡 Why This Project?
+🎓 **Learn C++ Fundamentals:** Great practice of loops, arrays, vectors, and structures.
+🧠 **Logical Thinking:** Includes collision detection, piece rotation, and real-time input handling.
+🎮 **Classic Game Development:** Understand how classic arcade games like Tetris work under the hood.
+🔥 **Level-Up Your Coding:** Work with 2D arrays, game loops, and scoring systems.
 
-  🎓 Learn C++: A fun way to practice core C++ concepts like game loops, user input handling, and collision detection.                                             
-  💻 Cross-Platform Development: This project works on both Windows and Linux/macOS, demonstrating platform-specific coding.                                       
-  🎮 Game Design: A great way to get started with simple game design and mechanics!                                                                                
-  
 # 📄 License
-
-This project is open-source and free to use for personal and educational purposes. Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+This project is open-source and free to use for personal and educational purposes.
+✅ Contributions are welcome!
+✅ Feel free to open issues, submit pull requests, or suggest improvements.
